@@ -1,0 +1,20 @@
+@font-face {
+    font-family:'sy-bold';
+    src:url(../font/SourceHanSans-Bold.otf);
+}
+@font-face {
+    font-family:'sy-light';
+    src:url(../font/SourceHanSans-Light.otf);
+}
+@font-face {
+    font-family:'sy';
+    src:url(../font/SourceHanSans-Regular.otf);
+}
+@font-face {
+    font-family: 'stixg';
+    src: url(../font/STIXGeneralItalic.otf);
+}
+@font-face {
+    font-family: 'stixm';
+    src: url(../font/STIXTwoMath.otf);
+}
